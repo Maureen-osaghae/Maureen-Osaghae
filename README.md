@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Maureen Osaghae  
-### ☁️ Cloud Engineer | AWS Solutions Architect | Security Enthusiast  
+### ☁️ Cloud Engineer | AWS Solutions Architect | Cloud Security Enthusiast  
 
 I’m a **results-driven Cloud Engineer** with hands-on experience designing, deploying, and securing **scalable AWS infrastructures**. My work bridges the gap between business strategy and technical implementation — helping organizations modernize, automate, and secure their systems in the cloud.  
 
