@@ -69,8 +69,10 @@ I’m passionate about **automation, observability, and AI-powered solutions** t
 ---
 
  **What drives me**
--I’m motivated by continuous learning, solving real-world cloud challenges, and designing architectures that are **secure by default**.  
--I believe automation isn’t just about speed — it’s about **reliability, security, and consistency**.
+- I’m motivated by continuous learning, solving real-world cloud challenges, and designing architectures that are **secure by default**.  
+- I believe automation isn’t just about speed — it’s about **reliability, security, and consistency**.
+
+---
 
 
 <!--
