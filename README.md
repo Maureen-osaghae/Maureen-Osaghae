@@ -30,30 +30,34 @@ Co-Owner & Marketing Manager | Davmau Resources — Nigeria & UK  May 2018 – P
     • Led a 10-member team, implementing workflow automation and mentorship that improved operational productivity.
     • Applied Generative AI to analyze campaign data, achieving a 50% Meta campaign conversion rate and improved ad ROI.
 
-PROJECTS | AWS re/Start Portfolio
-1. Modernized Monolithic Node.js App to Microservices
-    • Refactored and containerized a monolithic Node.js app to run on Amazon ECS with Docker.
-    • Result: 48% increase in scalability and deployment speed.
-2. Automated CI/CD Pipeline Deployment
-    • Built automated deployments using CodePipeline, CodeCommit, CloudFormation, and Terraform.
-    • Implemented version control and code approval workflow for production stability.
-3. Designed and Deployed Secure AWS Infrastructure
+## PROJECTS | AWS re/Start Portfolio
+## 1. Modernized Monolithic Node.js App to Microservices
+
+   • Refactored and containerized a monolithic Node.js app to run on Amazon ECS with Docker.
+
+   • Result: 48% increase in scalability and deployment speed.
+
+## 3. Automated CI/CD Pipeline Deployment
+   • Built automated deployments using CodePipeline, CodeCommit, CloudFormation, and Terraform.
+   • Implemented version control and code approval workflow for production stability.
+
+## 4. Designed and Deployed Secure AWS Infrastructure
     • Built multi-tier architecture with VPC, public/private subnets, NAT Gateway, and SSM-based access.
     • Eliminated the need for public IPs or SSH keys, strengthening security compliance.
-4. CloudFront & WAF Implementation
+5. CloudFront & WAF Implementation
     • Secured web applications with AWS CloudFront and Web Application Firewall (WAF).
     • Deployed SQS/SNS messaging for scalable data processing.
 
-5. Automated Security Response (EventBridge + Lambda)
+6. Automated Security Response (EventBridge + Lambda)
 Developed Lambda automation to detect and quarantine suspicious IAM activity in real time.
-6. RDS Encryption Migration
+7. RDS Encryption Migration
     • Migrated an unencrypted RDS database to an encrypted instance with zero downtime.
-7. Security Observability Dashboards (CloudWatch + CloudTrail)
+8. Security Observability Dashboards (CloudWatch + CloudTrail)
     • Built real-time dashboards to monitor IAM policy changes and detect Indicators of Compromise (IOCs).
-8. Event-Driven Architecture & Cost Optimization
+9. Event-Driven Architecture & Cost Optimization
     • Built event-driven automation using Lambda triggers (S3, DynamoDB) and SNS notifications.
     • Migrated MySQL to Aurora Serverless, cutting costs and improving scalability.
-9. Automated Compliance with AWS Config & Lambda
+10. Automated Compliance with AWS Config & Lambda
     • Built continuous compliance enforcement to auto-remediate misconfigured S3 buckets with public access disabled.
 EDUCATION
 AWS re/Start Graduate Program – Primed Talent, UK (2024)
