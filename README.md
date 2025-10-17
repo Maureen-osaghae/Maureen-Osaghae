@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## MAUREEN OSAGHAE | AWS CLOUD SUPPORT & SECURITY ENGINEER
 📍 Birmingham, UK | 📞 07766571920 | ✉️ maureenosaghahe86@gmail.com
  🔗 GitHub | LinkedIn | MediumSUMMARY
-Results-driven Cloud Security Engineer with hands-on experience in designing, deploying, and securing scalable AWS infrastructures. Skilled in IAM best practices, network segmentation, encryption, and automated monitoring solutions to enhance cloud security posture. Experienced with Terraform, Linux administration, and AWS services (EC2, S3, IAM, VPC, CloudTrail, CloudWatch). Passionate about automating compliance, building observability dashboards, and implementing proactive threat detection in the cloud. Experienced in troubleshooting cloud infrastructure, supporting users, and maintaining high availability in AWS environments
+**Maureen-Osaghae** is results-driven Cloud Security Engineer with hands-on experience in designing, deploying, and securing scalable AWS infrastructures. Skilled in IAM best practices, network segmentation, encryption, and automated monitoring solutions to enhance cloud security posture. Experienced with Terraform, Linux administration, and AWS services (EC2, S3, IAM, VPC, CloudTrail, CloudWatch). Passionate about automating compliance, building observability dashboards, and implementing proactive threat detection in the cloud. Experienced in troubleshooting cloud infrastructure, supporting users, and maintaining high availability in AWS environments
 PROFESSIONAL EXPERIENCE
 Co-Owner & Marketing Manager | Davmau Resources — Nigeria & UK
  May 2018 – Present
