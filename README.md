@@ -23,7 +23,14 @@ I’m passionate about **automation, observability, and AI-powered solutions** t
 - **Security Observability Dashboard** — Created CloudWatch dashboards integrated with CloudTrail logs to detect IAM policy anomalies in real time.  
 - **Automated Compliance Monitoring** — Deployed AWS Config + Lambda to auto-remediate S3 bucket misconfigurations.
 - **Designed and Deployed Secure AWS Infrastructure** — Built multi-tier architecture with VPC, public/private subnets, NAT Gateway, and SSM-based access. Eliminated the need for public IPs or SSH keys, strengthening security compliance.
-- 
+
+---
+
+ **Recent Projects**
+- 🔒 *Automated S3 Remediation*: Enforced “Block Public Access” using AWS Config + SSM Automation  
+- ☁️ *VPC & SSM Deployment with Terraform*: Secure EC2 connectivity without public IPs  
+- 📊 *CloudWatch Security Observability Dashboards*: Detect and visualize IAM anomalies  
+- 💾 *RDS Encryption Migration*: Converted unencrypted RDS instances using snapshot automation
 
 ---
 
@@ -34,6 +41,13 @@ I’m passionate about **automation, observability, and AI-powered solutions** t
 - 🧩 **AWS Certified Solutions Architect – Associate (2024)**  
 - 🤖 **AWS Certified AI Practitioner (2024)**  
 - ☁️ **AWS Certified Cloud Practitioner (2024)**  
+
+---
+
+🌱 **Currently Exploring**
+- Serverless security (Lambda, API Gateway)
+- Advanced Terraform modules
+- Cloud-native DevSecOps and compliance automation (CIS, ISO 27001 frameworks)
 
 ---
 
@@ -54,7 +68,9 @@ I’m passionate about **automation, observability, and AI-powered solutions** t
 
 ---
 
-⭐ *“I’m driven by the belief that great cloud solutions go beyond uptime — they enable security, scalability, and innovation.”*
+ **What drives me**
+-I’m motivated by continuous learning, solving real-world cloud challenges, and designing architectures that are **secure by default**.  
+-I believe automation isn’t just about speed — it’s about **reliability, security, and consistency**.
 
 
 <!--
