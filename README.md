@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Repo
 
 <!--
 **Maureen-osaghae/Maureen-Osaghae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 
 ## PROFESSIONAL EXPERIENCE
 
-Co-Owner & Marketing Manager | Davmau Resources — Nigeria & UK
-
- May 2018 – Present
+Co-Owner & Marketing Manager | Davmau Resources — Nigeria & UK  May 2018 – Present
     • Founded and scaled an e-commerce business from ₦45,000 startup capital to ₦10 million+ in revenue within 12 months through data-driven marketing and automation.
     • Leveraged AWS re/Start training to modernize a thriving UK-based e-commerce business, achieving 40% business growth through strategic digital transformation.
     • Led a 10-member team, implementing workflow automation and mentorship that improved operational productivity.
     • Applied Generative AI to analyze campaign data, achieving a 50% Meta campaign conversion rate and improved ad ROI.
+
 PROJECTS | AWS re/Start Portfolio
 1. Modernized Monolithic Node.js App to Microservices
     • Refactored and containerized a monolithic Node.js app to run on Amazon ECS with Docker.
