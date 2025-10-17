@@ -21,7 +21,9 @@ I’m passionate about **automation, observability, and AI-powered solutions** t
 - **CI/CD Pipeline Build** — Implemented automated deployments and versioning with CodePipeline + CodeCommit.  
 - **Event-Driven Architecture** — Built Lambda-based automation triggered by S3 and DynamoDB for cost-optimized scaling.  
 - **Security Observability Dashboard** — Created CloudWatch dashboards integrated with CloudTrail logs to detect IAM policy anomalies in real time.  
-- **Automated Compliance Monitoring** — Deployed AWS Config + Lambda to auto-remediate S3 bucket misconfigurations.  
+- **Automated Compliance Monitoring** — Deployed AWS Config + Lambda to auto-remediate S3 bucket misconfigurations.
+- **Designed and Deployed Secure AWS Infrastructure** — Built multi-tier architecture with VPC, public/private subnets, NAT Gateway, and SSM-based access. Eliminated the need for public IPs or SSH keys, strengthening security compliance.
+- 
 
 ---
 
